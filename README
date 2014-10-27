@@ -3,4 +3,4 @@ Nagios/Icinga plugin to check the status of NFS mounts on the client side.
 Besides testing that the remote NFS share is mounted, it test the mount is also writable, i.e. not stale. To test this, the nagios user needs rw-access in a 
 directory called "monitor" in the root of the tested mount-point.
 
-Claudio Ramirez <pub.claudio@gmail.com>, GPLv3 or later.
+Claudio Ramirez <nxadm@cpan.org>, GPLv3 or later.
