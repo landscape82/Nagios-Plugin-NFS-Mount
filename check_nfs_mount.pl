@@ -4,7 +4,7 @@
 # (not stale), the script needs rw-access for the nagios user in the 
 # directory called "monitor" in the root of the tested mount-point.
 
-# Claudio Ramirez <pub.claudio@gmail.com>, GPLv3 or later.
+# Claudio Ramirez <nxadm@cpan.org>, GPLv3 or later.
 
 use warnings;
 use strict;
